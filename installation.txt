@@ -1,0 +1,13 @@
+Installing notes
+1) Create a local postgresql database named "aequilibrium" on port 5432
+2) Create a database user named "transformer" and password "transformer" as superuser
+3) Download the package transformers-1.0.0.jar and execute the command java -jar transformers-1.0.0.jar
+4) After the application is up documents are available at http://localhost:8080/swagger-ui.html
+5) To create an autobot use "A", for decepticons "D" on race attribute of model Transformer and id MUST BE NULL for new transformers.
+6) The unit tests are in package /transformers/src/test/java/com/andrelimamacedo/transformers/controllers
+7) The results for the wars are a string with the following format:
+number of battles + Winner team + score + name and number of survivors from the loser team
+
+
+
+@developed by Andre Lima Macedo - andrelimamacedo@hotmail.com

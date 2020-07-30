@@ -1,0 +1,7 @@
+com\andrelimamacedo\repository\TransformerRepository.class
+com\andrelimamacedo\service\TransformerService.class
+com\andrelimamacedo\controller\TransformerController.class
+com\andrelimamacedo\rules\War.class
+com\andrelimamacedo\SpringFoxConfig.class
+com\andrelimamacedo\TransformersApplication.class
+com\andrelimamacedo\model\Transformer.class
